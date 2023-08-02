@@ -37,7 +37,7 @@
 
 - bash (открываем терминал)
 - Copy code
-- git clone https://github.com/bumerboy86/rabbitmq.git
+- git clone https://github.com/bumerboy86/rabbitmq
 - cd rabbitmq
 
 ## Установка зависимостей:
